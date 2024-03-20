@@ -1,0 +1,10 @@
+.ReadHeader{
+    display: flex;
+    flex-direction: row;
+}
+.ReadHeader button{
+    margin-top: 20px;
+    margin-left: 75%;
+    width: 100px;
+    height: 50px;
+}
